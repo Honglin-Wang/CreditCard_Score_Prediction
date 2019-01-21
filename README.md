@@ -3,7 +3,9 @@ This repos is to predict credit card with training dataset from kaggle, the purp
 ### Dataset : 
 
 cs-training.csv : training set
+
 cs-test.csv : test set
+
 Data Dictionary.xls : data schema introduction
 
 ## Major Steps : 
